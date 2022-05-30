@@ -1,1 +1,1 @@
-SELECT 'amanda' AS Nome, 'santos' AS Sobrenome, 'Belo Horizonte' AS 'Cidade Natal', 19 AS Idade;
+SELECT 5 + 6 AS A, 'de' AS Trybe, 2 + 8 AS eh;
