@@ -15,6 +15,6 @@ VALUES (
 15000,
 0,
 2,
-"NULL",
-"NULL",
+null,
+null,
 129);
